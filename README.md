@@ -1,13 +1,7 @@
 <p align="center"> <img alt="SandwichStation_Logo" src="Resources/Textures/Logo/logo.png" /></p>
-<table>
-  <tr>
-    <th>Server uptime:</th>
-    <td><a target="_blank" href="https://status.b3ckdoor.com/status/sandwichstation"><img src="https://status.b3ckdoor.com/api/badge/25/uptime?labelPrefix=Gameserver+" alt="" /></a></td>
-  </tr>
-</table>
 
 
-_SandwichStation_ was a fork of _ShibaStation_<sup>†</sup>, which is a fork of _Goob-Station_, which is itself a fork of _Space Station 14_. This fork is mainly customized to our own standards and balances.
+_SandwichStation_ is a fork of _Space Station 14_ with our own added content and balancing.
 
 ## Links
 
